@@ -16,6 +16,9 @@ const ProductsPage = () => {
 
     const [amount, setAmount] = useState(0)
 
+    const [cartItems, setCartItems] = useState([])
+
+
 
 
     return (

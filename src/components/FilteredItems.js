@@ -2,6 +2,7 @@ import React from 'react';
 import { FormGroup, Label, Input } from 'reactstrap';
 
 const FilteredItems = () => {
+
     return (
         <FormGroup>
             <Label for="exampleSelect"><strong>Filtered by: </strong></Label>
